@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KeepCount</string>
+    <string name="registro_inicialusuario">Registro de usuarios</string>
+    <string name="registro_usuario">Registre su nombre</string>
+    <string name="registro_apellido">Registre su apellido</string>
+    <string name="registro_correo">Correo electronico</string>
+    <string name="registro_tel">Telefono</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Contraseña2">Confirme la contraseña</string>
+    <string name="boton_registro">Registrar</string>
+    <string name="imagen">Imagen</string>
+</resources>
